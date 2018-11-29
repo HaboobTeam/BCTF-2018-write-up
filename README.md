@@ -1,5 +1,5 @@
 
-# HackIT-CTF-2018-write-up
+# BCTF-CTF-2018-write-up
 
 BCTF is a Jeopardy-style Online Capture The Flag Competition presented by blue-lotus. The game is opened to all participants around the world, and with prizes. Teams can compete from any location. No restriction on the number of participants of any team.
 
